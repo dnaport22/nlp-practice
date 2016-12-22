@@ -1,0 +1,17 @@
+#Files used for converting raw text into bag of words example
+bag_of_word_exp:
+  content1: training_text/content1.txt
+  content2: training_text/content2.txt
+
+#Files used for counting words example
+count_word_exp:
+  post1: training_text/01.txt
+  post2: training_text/02.txt
+  post3: training_text/03.txt
+  post4: training_text/04.txt
+  post5: training_text/05.txt
+
+#Other experimental Files
+other_exp:
+  file1: training_text/sample1.txt
+  file2: training_text/sample2.txt
